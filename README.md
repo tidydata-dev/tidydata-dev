@@ -35,5 +35,9 @@ Small, reliable tools and printables. 🌍
 Fast JSON APIs with free plans — holidays, currencies, time zones, QR codes, DNS, SEO audit, nutrition, airports and more.
 **[TidyData APIs on Rapid](https://rapidapi.com/user/soymxrc)**
 
+### 🧠 Tools for AI assistants (MCP)
+Connect Claude, ChatGPT, Cursor or VS Code to **49 free tools** (holidays, currency, time zones, DNS/WHOIS, web checks, geodata, text tools) — no install, no key:
+`https://tidydata-api.tidydata.workers.dev/mcp` → **[tidydata-mcp](https://github.com/tidydata-dev/tidydata-mcp)** · listed in the official MCP Registry as `io.github.tidydata-dev/tidydata`
+
 ---
 Everything in one place: [tidydata-tools.tidydata.workers.dev/about](https://tidydata-tools.tidydata.workers.dev/about/)
