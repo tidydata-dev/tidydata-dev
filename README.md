@@ -41,3 +41,5 @@ Connect Claude, ChatGPT, Cursor or VS Code to **49 free tools** (holidays, curre
 
 ---
 Everything in one place: [tidydata-tools.tidydata.workers.dev/about](https://tidydata-tools.tidydata.workers.dev/about/)
+
+💻 Code examples (curl, Python, JavaScript, Postman, OpenAPI) for every API: [tidydata-api-examples](https://github.com/tidydata-dev/tidydata-api-examples)
