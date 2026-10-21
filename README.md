@@ -17,15 +17,20 @@ Small, reliable tools and printables. 🌍
 ### 🤖 Automation robots on Apify (pay per use)
 **Most used:**
 - [YouTube Transcript Scraper — Subtitles, Captions, SRT & VTT](https://apify.com/tidydata/youtube-transcript-scraper)
-- [Merge, Deduplicate & Transform Datasets — CSV, Excel, JSON](https://apify.com/tidydata/merge-dedupe-datasets)
-- [Audio & Video to Text — Whisper Transcription, SRT/VTT](https://apify.com/tidydata/audio-video-transcription)
-- [Video Frame Extractor — Thumbnails & Keyframes for AI](https://apify.com/tidydata/video-frame-extractor)
-- [Email Validator & List Cleaner — Syntax, MX, Disposable, Typos](https://apify.com/tidydata/email-validator)
+- [YouTube Scraper — Channels, Videos, Shorts & Search Results](https://apify.com/tidydata/youtube-channel-scraper)
+- [YouTube Comments Scraper — Replies, Likes, Pinned & Authors](https://apify.com/tidydata/youtube-comments-scraper)
+- [Merge, Filter, Deduplicate & Transform Datasets — CSV, Excel](https://apify.com/tidydata/merge-dedupe-datasets)
+- [Website Contact Extractor — Emails, Phones & Social Links](https://apify.com/tidydata/website-contact-extractor)
+- [Google News Scraper — Articles, Publishers & Real Links](https://apify.com/tidydata/google-news-scraper)
+- [App Store & Google Play Reviews Scraper — Ratings & Replies](https://apify.com/tidydata/app-reviews-scraper)
+- [Audio & Video to Text — Whisper Speech to Text, Podcasts, SRT](https://apify.com/tidydata/audio-video-transcription)
+- [Video Frame Extractor — Thumbnails, Screenshots & Keyframes](https://apify.com/tidydata/video-frame-extractor)
+- [Email Validator & Verifier — Bulk List Cleaner, MX, Disposable](https://apify.com/tidydata/email-validator)
 - [Phone Number Validator & Formatter — E.164, Type, Carrier](https://apify.com/tidydata/phone-number-validator)
 
-**Code examples:** [youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper) · [merge-dedupe-transform-datasets](https://github.com/tidydata-dev/merge-dedupe-transform-datasets) · [audio-video-transcription-api](https://github.com/tidydata-dev/audio-video-transcription-api) · [video-frame-extractor](https://github.com/tidydata-dev/video-frame-extractor)
+**Code examples:** [youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper) · [youtube-comments-scraper](https://github.com/tidydata-dev/youtube-comments-scraper) · [youtube-scraper](https://github.com/tidydata-dev/youtube-scraper) · [merge-dedupe-transform-datasets](https://github.com/tidydata-dev/merge-dedupe-transform-datasets) · [website-contact-extractor](https://github.com/tidydata-dev/website-contact-extractor) · [google-news-scraper](https://github.com/tidydata-dev/google-news-scraper) · [app-reviews-scraper](https://github.com/tidydata-dev/app-reviews-scraper) · [telegram-channel-scraper](https://github.com/tidydata-dev/telegram-channel-scraper) · [audio-video-transcription-api](https://github.com/tidydata-dev/audio-video-transcription-api) · [video-frame-extractor](https://github.com/tidydata-dev/video-frame-extractor)
 
-<details><summary>All 25 robots</summary>
+<details><summary>All 30 robots</summary>
 
 - [Fuel Prices Spain, France & Italy — 42,000+ Gas Stations](https://apify.com/tidydata/fuel-prices-spain-france-italy)
 - [PDF & Image to Text (OCR) — Scanned PDFs, Photos, Screenshots](https://apify.com/tidydata/pdf-image-text-extractor)
@@ -35,8 +40,8 @@ Small, reliable tools and printables. 🌍
 - [URL Status & Redirect Checker — Bulk HTTP Status Codes](https://apify.com/tidydata/url-status-checker)
 - [Sitemap URL Extractor — All Pages of Any Website](https://apify.com/tidydata/sitemap-url-extractor)
 - [RSS & Atom Feed Reader — Only New Items Since Last Run](https://apify.com/tidydata/rss-new-items-monitor)
-- [SEO Audit Crawler — Technical SEO Check for Any Website](https://apify.com/tidydata/seo-audit-crawler)
-- [Website Technology Detector — CMS, Frameworks, Analytics](https://apify.com/tidydata/website-technology-detector)
+- [SEO Audit Tool — Website Audit, SEO Checker & Broken Links](https://apify.com/tidydata/seo-audit-crawler)
+- [Website Technology Detector — Tech Stack, CMS, Analytics](https://apify.com/tidydata/website-technology-detector)
 - [Website Screenshot & PDF API — Full Page Captures of Any URL](https://apify.com/tidydata/website-screenshot-pdf)
 - [Image EXIF Metadata Extractor — Camera, Date, GPS](https://apify.com/tidydata/exif-metadata-extractor)
 - [QR Code Generator — Bulk PNG & SVG QR Codes from Text or URLs](https://apify.com/tidydata/qr-code-generator)
