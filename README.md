@@ -23,6 +23,7 @@ Small, reliable tools and printables. 🌍
 - [Website Contact Extractor — Emails, Phones & Social Links](https://apify.com/tidydata/website-contact-extractor)
 - [Google News Scraper — $1/1k · Articles, Publishers & Real Links](https://apify.com/tidydata/google-news-scraper)
 - [App Store & Google Play Reviews Scraper — $0.10/1k · Replies](https://apify.com/tidydata/app-reviews-scraper)
+- [Telegram Channel Scraper — $0.30/1k · Posts, Views & Reactions](https://apify.com/tidydata/telegram-channel-scraper)
 - [Audio & Video to Text — Whisper Speech to Text, Podcasts, SRT](https://apify.com/tidydata/audio-video-transcription)
 - [Video Frame Extractor — Thumbnails, Screenshots & Keyframes](https://apify.com/tidydata/video-frame-extractor)
 - [Email Validator & Verifier — $0.30/1k · Bulk List Cleaner, MX](https://apify.com/tidydata/email-validator)
@@ -30,7 +31,7 @@ Small, reliable tools and printables. 🌍
 
 **Code examples:** [youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper) · [youtube-comments-scraper](https://github.com/tidydata-dev/youtube-comments-scraper) · [youtube-scraper](https://github.com/tidydata-dev/youtube-scraper) · [merge-dedupe-transform-datasets](https://github.com/tidydata-dev/merge-dedupe-transform-datasets) · [website-contact-extractor](https://github.com/tidydata-dev/website-contact-extractor) · [google-news-scraper](https://github.com/tidydata-dev/google-news-scraper) · [app-reviews-scraper](https://github.com/tidydata-dev/app-reviews-scraper) · [telegram-channel-scraper](https://github.com/tidydata-dev/telegram-channel-scraper) · [audio-video-transcription-api](https://github.com/tidydata-dev/audio-video-transcription-api) · [video-frame-extractor](https://github.com/tidydata-dev/video-frame-extractor)
 
-<details><summary>All 30 robots</summary>
+<details><summary>All 35 robots</summary>
 
 - [Fuel Prices Spain, France & Italy — 42,000+ Gas Stations](https://apify.com/tidydata/fuel-prices-spain-france-italy)
 - [PDF & Image to Text (OCR) — $2/1k pages · Scanned PDFs, Photos](https://apify.com/tidydata/pdf-image-text-extractor)
@@ -51,6 +52,10 @@ Small, reliable tools and printables. 🌍
 - [Link Preview & Page Metadata Extractor — Open Graph, Favicon](https://apify.com/tidydata/page-metadata-extractor)
 - [Article Text Extractor — Clean Text & Markdown from Web Pages](https://apify.com/tidydata/article-text-extractor)
 - [Company Registry Lookup — LEI, Norway & Finland Official Data](https://apify.com/tidydata/company-registry-lookup)
+- [App Store & Google Play Scraper — App Details, Search & Charts](https://apify.com/tidydata/app-store-google-play-scraper)
+- [Workday, Greenhouse, Lever & Ashby Jobs Scraper — $1/1k jobs](https://apify.com/tidydata/ats-jobs-scraper)
+- [Shopify & WooCommerce Scraper — $0.50/1k · Products & Prices](https://apify.com/tidydata/shopify-woocommerce-scraper)
+- [Bluesky Scraper — $0.50/1k · Posts, Profiles & Followers](https://apify.com/tidydata/bluesky-scraper)
 
 </details>
 
