@@ -31,7 +31,7 @@ Small, reliable tools and printables. 🌍
 
 **Code examples:** [youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper) · [youtube-comments-scraper](https://github.com/tidydata-dev/youtube-comments-scraper) · [youtube-scraper](https://github.com/tidydata-dev/youtube-scraper) · [merge-dedupe-transform-datasets](https://github.com/tidydata-dev/merge-dedupe-transform-datasets) · [website-contact-extractor](https://github.com/tidydata-dev/website-contact-extractor) · [google-news-scraper](https://github.com/tidydata-dev/google-news-scraper) · [app-reviews-scraper](https://github.com/tidydata-dev/app-reviews-scraper) · [telegram-channel-scraper](https://github.com/tidydata-dev/telegram-channel-scraper) · [audio-video-transcription-api](https://github.com/tidydata-dev/audio-video-transcription-api) · [video-frame-extractor](https://github.com/tidydata-dev/video-frame-extractor)
 
-<details><summary>All 35 robots</summary>
+<details><summary>All 40 robots</summary>
 
 - [Fuel Prices Spain, France & Italy — 42,000+ Gas Stations](https://apify.com/tidydata/fuel-prices-spain-france-italy)
 - [PDF & Image to Text (OCR) — $2/1k pages · Scanned PDFs, Photos](https://apify.com/tidydata/pdf-image-text-extractor)
@@ -56,6 +56,11 @@ Small, reliable tools and printables. 🌍
 - [Workday, Greenhouse, Lever & Ashby Jobs Scraper — $1/1k jobs](https://apify.com/tidydata/ats-jobs-scraper)
 - [Shopify & WooCommerce Scraper — $0.50/1k · Products & Prices](https://apify.com/tidydata/shopify-woocommerce-scraper)
 - [Bluesky Scraper — $0.50/1k · Posts, Profiles & Followers](https://apify.com/tidydata/bluesky-scraper)
+- [Hacker News Scraper — $0.20/1k · Stories, Comments & Search](https://apify.com/tidydata/hacker-news-scraper)
+- [Wayback Machine Scraper — $0.50/1k · Archived Pages & URLs](https://apify.com/tidydata/wayback-machine-scraper)
+- [Domain WHOIS & Availability Checker — $1/1k · Bulk RDAP, Age](https://apify.com/tidydata/domain-whois-checker)
+- [Podcast Scraper — $2/1k · Apple Podcasts, Charts, RSS](https://apify.com/tidydata/podcast-scraper)
+- [Lighthouse & PageSpeed Bulk Audit — $0.01/page · Web Vitals](https://apify.com/tidydata/lighthouse-bulk-audit)
 
 </details>
 
