@@ -31,7 +31,7 @@ Small, reliable tools and printables. 🌍
 
 **Code examples:** [youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper) · [youtube-comments-scraper](https://github.com/tidydata-dev/youtube-comments-scraper) · [youtube-scraper](https://github.com/tidydata-dev/youtube-scraper) · [merge-dedupe-transform-datasets](https://github.com/tidydata-dev/merge-dedupe-transform-datasets) · [website-contact-extractor](https://github.com/tidydata-dev/website-contact-extractor) · [google-news-scraper](https://github.com/tidydata-dev/google-news-scraper) · [app-reviews-scraper](https://github.com/tidydata-dev/app-reviews-scraper) · [telegram-channel-scraper](https://github.com/tidydata-dev/telegram-channel-scraper) · [audio-video-transcription-api](https://github.com/tidydata-dev/audio-video-transcription-api) · [video-frame-extractor](https://github.com/tidydata-dev/video-frame-extractor)
 
-<details><summary>All 40 robots</summary>
+<details><summary>All 43 robots</summary>
 
 - [Fuel Prices Spain, France & Italy — 42,000+ Gas Stations](https://apify.com/tidydata/fuel-prices-spain-france-italy)
 - [PDF & Image to Text (OCR) — $2/1k pages · Scanned PDFs, Photos](https://apify.com/tidydata/pdf-image-text-extractor)
@@ -61,6 +61,9 @@ Small, reliable tools and printables. 🌍
 - [Domain WHOIS & Availability Checker — $1/1k · Bulk RDAP, Age](https://apify.com/tidydata/domain-whois-checker)
 - [Podcast Scraper — $2/1k · Apple Podcasts, Charts, RSS](https://apify.com/tidydata/podcast-scraper)
 - [Lighthouse & PageSpeed Bulk Audit — $0.01/page · Web Vitals](https://apify.com/tidydata/lighthouse-bulk-audit)
+- [Bulk ChatGPT & Claude: Classify, Extract & Translate Datasets](https://apify.com/tidydata/ai-dataset-enricher)
+- [AI Visibility Tracker — ChatGPT, Perplexity, Gemini · $0.03](https://apify.com/tidydata/ai-brand-visibility-tracker)
+- [AI Web Scraper — Extract Any Data with Claude · $0.01/page](https://apify.com/tidydata/ai-web-scraper)
 
 </details>
 
