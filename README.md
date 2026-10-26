@@ -14,6 +14,10 @@ Small, reliable tools and printables. 🌍
 - [English dictionary, synonyms & rhymes](https://tidydata-words.tidydata.workers.dev/)
 - [Herramientas en español](https://herramientas.tidydata.workers.dev/)
 
+### 🧾 Shopify apps
+- [Tidy Verifactu — Verifactu invoices for Shopify stores in Spain, with QR and instant AEAT filing](https://verifactu.tidydata.workers.dev/)
+- [Guía Verifactu 2027 para tiendas online (ES)](https://verifactu.tidydata.workers.dev/guia-verifactu-2027/)
+
 ### 🤖 Automation robots on Apify (pay per use)
 **Most used:**
 - [YouTube Transcript Scraper — $0.50/1k · Subtitles, SRT & VTT](https://apify.com/tidydata/youtube-transcript-scraper)
