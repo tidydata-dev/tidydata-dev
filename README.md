@@ -29,9 +29,9 @@ Small, reliable tools and printables. 🌍
 - [Email Validator & Verifier — $0.30/1k · Bulk List Cleaner, MX](https://apify.com/tidydata/email-validator?fpr=wtg6qt)
 - [Phone Number Validator & Formatter — E.164, Type, Carrier](https://apify.com/tidydata/phone-number-validator?fpr=wtg6qt)
 
-**Code examples:** [youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper) · [youtube-comments-scraper](https://github.com/tidydata-dev/youtube-comments-scraper) · [youtube-scraper](https://github.com/tidydata-dev/youtube-scraper) · [merge-dedupe-transform-datasets](https://github.com/tidydata-dev/merge-dedupe-transform-datasets) · [website-contact-extractor](https://github.com/tidydata-dev/website-contact-extractor) · [google-news-scraper](https://github.com/tidydata-dev/google-news-scraper) · [app-reviews-scraper](https://github.com/tidydata-dev/app-reviews-scraper) · [telegram-channel-scraper](https://github.com/tidydata-dev/telegram-channel-scraper) · [audio-video-transcription-api](https://github.com/tidydata-dev/audio-video-transcription-api) · [video-frame-extractor](https://github.com/tidydata-dev/video-frame-extractor) · [public-tenders-scraper](https://github.com/tidydata-dev/public-tenders-scraper) · [pdf-ocr-text-extractor](https://github.com/tidydata-dev/pdf-ocr-text-extractor) · [seo-audit-crawler](https://github.com/tidydata-dev/seo-audit-crawler)
+**Code examples:** [youtube-transcript-scraper](https://github.com/tidydata-dev/youtube-transcript-scraper) · [youtube-comments-scraper](https://github.com/tidydata-dev/youtube-comments-scraper) · [youtube-scraper](https://github.com/tidydata-dev/youtube-scraper) · [merge-dedupe-transform-datasets](https://github.com/tidydata-dev/merge-dedupe-transform-datasets) · [website-contact-extractor](https://github.com/tidydata-dev/website-contact-extractor) · [google-news-scraper](https://github.com/tidydata-dev/google-news-scraper) · [app-reviews-scraper](https://github.com/tidydata-dev/app-reviews-scraper) · [telegram-channel-scraper](https://github.com/tidydata-dev/telegram-channel-scraper) · [audio-video-transcription-api](https://github.com/tidydata-dev/audio-video-transcription-api) · [video-frame-extractor](https://github.com/tidydata-dev/video-frame-extractor) · [public-tenders-scraper](https://github.com/tidydata-dev/public-tenders-scraper) · [pdf-ocr-text-extractor](https://github.com/tidydata-dev/pdf-ocr-text-extractor) · [seo-audit-crawler](https://github.com/tidydata-dev/seo-audit-crawler) · [french-company-search](https://github.com/tidydata-dev/french-company-search) · [brazil-cnpj-lookup](https://github.com/tidydata-dev/brazil-cnpj-lookup)
 
-<details><summary>All 45 robots</summary>
+<details><summary>All 47 robots</summary>
 
 - [Fuel Prices Spain, France & Italy — 42,000+ Gas Stations](https://apify.com/tidydata/fuel-prices-spain-france-italy?fpr=wtg6qt)
 - [PDF & Image to Text (OCR) — $2/1k pages · Scanned PDFs, Photos](https://apify.com/tidydata/pdf-image-text-extractor?fpr=wtg6qt)
@@ -66,6 +66,8 @@ Small, reliable tools and printables. 🌍
 - [AI Web Scraper — Extract Any Data with Claude · $0.01/page](https://apify.com/tidydata/ai-web-scraper?fpr=wtg6qt)
 - [HTTP Request & Bulk API Calls — Clay, n8n, Webhooks · $1/1k](https://apify.com/tidydata/http-request?fpr=wtg6qt)
 - [Public Tenders & Procurement Scraper — TED, SAM.gov, UK](https://apify.com/tidydata/public-tenders-scraper?fpr=wtg6qt)
+- [French Company Search — SIRENE, SIREN/SIRET & Directors](https://apify.com/tidydata/french-company-search?fpr=wtg6qt)
+- [Consulta CNPJ em Lote — Brazil CNPJ Bulk Lookup, QSA & CNAE](https://apify.com/tidydata/brazil-cnpj-lookup?fpr=wtg6qt)
 
 </details>
 
